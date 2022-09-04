@@ -1,5 +1,7 @@
 # eart_quith_app
 
+
+<img src="https://user-images.githubusercontent.com/101389853/188318512-eb94fa97-a474-450f-8391-489ed7f8dadf.gif" alt="Girl in a jacket"  height="600">
 A new Flutter project.
 
 ## Getting Started
